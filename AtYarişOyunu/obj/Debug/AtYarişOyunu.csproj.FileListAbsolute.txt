@@ -1,0 +1,9 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\bin\Debug\AtYarişOyunu.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\bin\Debug\AtYarişOyunu.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\bin\Debug\AtYarişOyunu.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\obj\Debug\AtYarişOyunu.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\obj\Debug\AtYarişOyunu.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\obj\Debug\AtYarişOyunu.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\obj\Debug\AtYarişOyunu.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\obj\Debug\AtYarişOyunu.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\AtYarişOyunu\AtYarişOyunu\obj\Debug\AtYarişOyunu.pdb
